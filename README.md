@@ -2,7 +2,7 @@
 
 This project uses data from ticket transactions at UK train stations to create interactive visualizations with Power BI. The .pbix file contains various charts, maps, and slicers to analyze ticket sales by station and by ticket type. The data source is: https://mavenanalytics.io/data-playground while the development of the Data Model is a creation of Data Tutor (https://datatutor.gr).
 
-Finally, this report was created (the Data Model part) by attending the Guided Project course in Microsoft Power BI by Data Tutor.
+Finally, this report was created (the Data Model part) by attending the **Guided Project course in Microsoft Power BI** by Data Tutor.
 
 ## Installation Instructions
 
